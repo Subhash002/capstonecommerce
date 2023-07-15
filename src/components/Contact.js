@@ -14,16 +14,25 @@ const Contact = () => {
             your home decor game.
           </p>
           <form
-            action="https://formspree.io/f/xzblbkgz"
+            action="https://formsubmit.io/send/9b005735-26c9-4ceb-89e1-90e156f5504e"
             className="contact-form"
+            method="POST"
           >
+            <input
+              name="_redirect"
+              type="hidden"
+              id="name"
+              value="https://comfystoresloth.netlify.app"
+            />
             <input
               type="email"
               className="form-input"
               placeholder="enter email"
-              name="_replyto"
+              name="email"
             />
-            <button className="submit-btn">Subscribe</button>
+            <button type="submit" className="submit-btn">
+              Subscribe
+            </button>
           </form>
         </div>
       </div>
