@@ -1,7 +1,10 @@
 import React from 'react'
-import styled from 'styled-components'
+import { useRef } from "react";
+import styled from "styled-components";
 
 const Contact = () => {
+  const inputRef = useRef(null);
+
   return (
     <Wrapper>
       <div className="section-center">
@@ -38,7 +41,7 @@ const Contact = () => {
       </div>
     </Wrapper>
   );
-}
+};
 const Wrapper = styled.section`
   padding: 5rem 0;
   h3 {
