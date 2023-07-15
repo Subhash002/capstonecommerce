@@ -1,5 +1,20 @@
 # E-commerce Website - Detailed Functionality
 
+## Website Images
+![image](https://github.com/Subhash002/capstonecommerce/assets/29842088/d7b3f457-b731-4f0f-8db1-d2284690a160)
+![image](https://github.com/Subhash002/capstonecommerce/assets/29842088/b85f4515-49d8-4edd-ba56-55d84720b856)
+![image](https://github.com/Subhash002/capstonecommerce/assets/29842088/3cc9feed-3dd2-4ade-b499-f4620fe4cd51)
+![image](https://github.com/Subhash002/capstonecommerce/assets/29842088/f5982a8b-d72f-488f-bcf9-7861ec4a2ba8)
+![image](https://github.com/Subhash002/capstonecommerce/assets/29842088/659129e3-8b6f-4847-adf7-9314eb303de1)
+![image](https://github.com/Subhash002/capstonecommerce/assets/29842088/e2f905ab-f35f-4a4d-9229-7a9aab93317d)
+![image](https://github.com/Subhash002/capstonecommerce/assets/29842088/94929f6c-14fb-4b01-a3dd-1e3b5a6babb1)
+![image](https://github.com/Subhash002/capstonecommerce/assets/29842088/4552cfab-0fc2-4f98-9625-5f0f4da4b1b3)
+![image](https://github.com/Subhash002/capstonecommerce/assets/29842088/e4b1fdac-dccf-4455-bc05-e4d82e48d535)
+![image](https://github.com/Subhash002/capstonecommerce/assets/29842088/68015fce-8cbe-43db-b7ee-602d929d04f0)
+
+
+
+
 This document provides a comprehensive description of the features and functionality of our e-commerce website. Our goal is to offer users a seamless shopping experience with secure payment processing, efficient state management, and interactive customer support.
 
 ## State Management
