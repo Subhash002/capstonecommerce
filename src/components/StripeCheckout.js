@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import { loadStripe } from "@stripe/stripe-js";
+import { toast } from "react-toastify";
 import {
   CardElement,
   useStripe,
@@ -86,6 +87,7 @@ const CheckoutForm = () => {
         clearCart();
         navigate("/");
       }, 5000);
+      toast.success("Your Payment is successful!");
     }
   };
   return (

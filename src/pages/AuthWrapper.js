@@ -1,13 +1,14 @@
 import React from 'react'
 import { useAuth0 } from '@auth0/auth0-react'
 import styled from 'styled-components'
+import ReactLoading from "react-loading";
 
 const AuthWrapper = ({ children }) => {
   const { isLoading, error } = useAuth0();
   if (isLoading) {
     return (
       <Wrapper>
-        <h1>Loading...</h1>
+        <ReactLoading type={"balls"} color="black" height={667} width={375} />
       </Wrapper>
     );
   }
